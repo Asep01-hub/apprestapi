@@ -1,0 +1,24 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "apk rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asep01-hub/apprestapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "asep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asep01-hub/apprestapi/issues"
+  },
+  "homepage": "https://github.com/Asep01-hub/apprestapi#readme"
+}
